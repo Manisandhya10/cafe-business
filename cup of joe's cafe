@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CAFE Business</title>
+    <style>
+        /* Basic styling - replace this with your own CSS styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            background-color: #444;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 8px 20px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to THE CUP OF JOE'S cafe</h1>
+        <p>Enjoy the taste of coffe with us THE CUP OF JOE'S cafe.</p>
+         <p>  Our Cup of joe's cafe has a warm and inviting ambiance,with wooden furniture,dimlights,and relaxing music.</p>
+    </header>
+    
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Taste and See our CUP OF JOE"S CAFE offers a unique coffee house environment unlike any other cafes. 
+          We are not only a place to drop in and get your morning cup of coffee (although you are more than welcome to do that),
+          we are a place where you can sit down and enjoy that tailor-made cup of coffee. 
+          If you need to work, we have a seating area created specifically for you.
+          If you need to rest, we have a soft-seating area in front of a stone fire place that is perfect for your weary mind and body.
+          We offer a delicious variety of coffee roasted in house made by our professionally trained baristas. 
+          We have everything from classic coffee to our house made specialty beverages. 
+          All of our sauces & syrups are made in-house with all natural ingredients (no chemicals or preservatives) ensuring you the highest quality in taste & health. 
+          You can complete your coffee with one of our delicious sweet treats made by our very own baker. 
+          We look forward to serving you at Taste & See the cup of joe's cafe.....!</p>
+        <p>WE MAKE IT
+POSSIBLE</p>
+<p>OUR VISION</p>
+<p>To be the most loved & respected coffee company worldwide.
+
+    We are tireless in our pursuit to serve the highest quality coffee,
+     while making each and every one of our guests feel like they are returning home when they step into one of our coffee houses.</p>
+
+<p>OUR MISSION</p>
+<p>“Elevating coffee, 
+    people and the environment by supporting sustainable practices 
+    and bringing joy to those who love a good cup of coffee.”.</p>
+
+<p>OUR EXPERIENCE</p>
+<p>Personable and customer-oriented barista with over 3 years experience making coffee beverages at cafes.
+   Passionate about fair trade coffee and exotic blends. Skilled at latte art, multiple espresso machines, and customer service</p>
+    <img src="https://media.istockphoto.com/id/1286692956/photo/empty-cafe-interior-with-chairs-and-tables.jpg?s=1024x1024&w=is&k=20&c=dVAV0d46F8ZrXoY-4t7q838Vhz1_3Y74F9srQkD5tE4="/>
+    </section>
+    
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Managing cafe employees</li>
+            <li>Cafe menu layout</li>
+            <li>social media and cafes</li>
+            <li>cafe website</li>
+            <li>how to be a family friendly cafe</li>
+            <!-- Add more services as needed -->
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@thecuoofjoescafe.com</p>
+        <p>Phone: 821-123-9720</p>
+        <p>Address: 630 KT street,Tirupati,India</p>
+    </section>
+</body>
+</html>
